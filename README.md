@@ -69,6 +69,8 @@ Fonte: conversa com o Copilot, 13/09/2024
 ## 💭 Reflexão (Opcional)
 Apesar de parecer um grande desafio iniciar uma interação com uma IA, percebe-se que após as primeiras trocas de informações e conhecimentos o desafio passa a ser em como formular melhor as questões
 
+ **#LabDIONattyOrNot** [DIO](https://www.linkedin.com/school/dio-makethechange)  [falvojr](https://www.linkedin.com/in/falvojr)
+
 ## Links Interessantes e referências
 Você pode acessar o Microsoft Copilot através do seguinte link: [copilot.microsoft.com](https://copilot.microsoft.com/)³. 
 Basta fazer login com sua conta Microsoft para começar a usar.
